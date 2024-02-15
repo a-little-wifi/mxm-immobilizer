@@ -5,3 +5,6 @@ Also this one's open source yippie, do what you want with it (please make someth
 
 ## Insert more info here at some point
 (there is a lot to say about the headers and the power inputs and stuff)
+
+## Private for now
+(it's not done yet and there's some stuff I really wanna change before showing it off)
