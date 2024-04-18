@@ -5,6 +5,8 @@ Also this one's open source lol.
 
 It's not quite done yet, a lot of stuff is currently suboptimal, but it might actually work in its current state. No guarantees though.
 
+If you've got any complaints about how it has been designed so far, please keep in mind this was my 3rd PCB project ever and I'm just doing this for fun. Of course I would love to see it real and working some day though, so feedback is very welcome. I want to make it as good as it can possibly be!
+
 <img src='front3d.png' width=75%/>
 <img src='back3d.png' width=75%/>
 
@@ -17,7 +19,7 @@ It's not quite done yet, a lot of stuff is currently suboptimal, but it might ac
 * Dual channel LVDS output
 * Full PCIe x16 link
 * Up to 190W of power
-* Clevo external power cable support
+* Clevo extra MXM power cable support
 * OEM pins
 * Reserved pins
 * Power control pins
@@ -26,6 +28,7 @@ It's not quite done yet, a lot of stuff is currently suboptimal, but it might ac
 
 In accordance with the MXM 3.1 specification, the LVDS pins can optionally be mapped to be 2 more DP outputs instead, DP E and DP F. The board has 0Ω jumpers to route those lanes to either the LVDS header or the 2 internal DP outputs.
 
+The LVDS header has been designed to probably match the common pinout found on cheap LCD driver boards, but I have not really verified this.
 
 The headers are meant to expose every configuration and feedback pin MXM has to offer:
 * Power enable
