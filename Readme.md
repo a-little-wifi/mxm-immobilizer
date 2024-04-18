@@ -5,8 +5,6 @@ Also this one's open source lol.
 
 It's not quite done yet, a lot of stuff is currently suboptimal, but it might actually work in its current state. No guarantees though.
 
-If you've got any feedback, please keep in mind this was my 3rd PCB project ever and I'm just doing this for fun. Of course I would love to see it real and working some day though, so feedback is very welcome. I want to make it as good as it can possibly be!
-
 <img src='front3d.png' width=75%/>
 <img src='back3d.png' width=75%/>
 
@@ -63,7 +61,8 @@ In this case the 12V supply has to be disconnected though, or you'll end up fryi
 
 <img src='pcb.png' width=75%/>
 
-
+## Feedback:
+If you've got any feedback, please keep in mind this was my 3rd PCB project ever and I'm just doing this for fun. Of course I would love to see it real and working some day though, so feedback is very welcome. I want to make it as good as it can possibly be!
 
 ## Reference sources:
 
