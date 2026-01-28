@@ -58,6 +58,7 @@ In this case the 12V supply has to be disconnected though, or you'll end up fryi
 * DP diffpair between-lane length matching
 * Remove ground plane around PCIe traces
 * Change mxm mount screw holes to be plated so you can solder on screw posts
+* Add capacitors on PCIe Rx pairs <--- important!!!! if you're using this board as a reference, please note this!
 
 <img src='pcb.png' width=75%/>
 
